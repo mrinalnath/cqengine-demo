@@ -11,6 +11,6 @@
   <artifactId>jackson-coreutils</artifactId>
   <version>1.9</version>
 </dependency>
-    <dependencies>
+    </dependencies>
 
 </project>
